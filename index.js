@@ -1,9 +1,9 @@
 class SupremeDisco {
   constructor() {
     this.music = true;
+    this.danceFloor = 'sticky';
   }
-
   dance() {
-    console.log("DANCINGGGGG!!")
+    console.log('boogy booogie boooogzz!');
   }
 }
